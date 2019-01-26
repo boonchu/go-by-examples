@@ -4,6 +4,11 @@
 I use vg as a tool set to setup virtual env.
 https://github.com/GetStream/vg
 
+##### Download and install GO.
+
+wget https://dl.google.com/go/go1.11.2.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.11.2.linux-amd64.tar.gz
+
 ##### VG Installation.
 mkdir ~/go/{bin,src}
 export GOPATH=~/go
