@@ -1,0 +1,5 @@
+####  AWS Lambda Container Image Converter
+https://github.com/awslabs/aws-lambda-container-image-converter#aws-lambda-container-image-converter
+
+# vg init --full-isolation img2lambda
+# git clone https://github.com/awslabs/aws-lambda-container-image-converter $GOPATH/src/github.com/awslabs/aws-lambda-container-image-converter

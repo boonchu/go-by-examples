@@ -1,0 +1,2 @@
+#### Go by Examples:
+https://play.golangorg/p/fgGVOyuZdu
